@@ -10,3 +10,4 @@
 **/edmx/
 **/gen/
 **/.idea/
+.cds_gen.log
